@@ -1,0 +1,427 @@
+---
+title: "Manitoba Soil Science Society Summer Tour"
+format:
+  typst:
+    section-numbering: 1.1.1
+---
+
+$~$
+
+$~$
+
+```{=typst}
+#set align(center)
+```
+::: {.center style="font-size: 325%"}
+Soils of South-Eastern\
+Manitoba
+:::
+
+$~$
+
+$~$
+
+::: {style="font-size: 150%;"}
+Thursday Aug 08, 2024
+:::
+
+![](./images/MSSS_logo2.png){width="50%" fig-align="center"}
+
+{{< pagebreak >}}
+
+```{=typst}
+#set align(left)
+```
+# Itinerary
+
+1.  **Pick-up** 8:00am
+    -  Sobeys Kenaston - [1660 Kenaston Blvd, Winnipeg, MB](https://maps.app.goo.gl/TmfyqeziMwYLU29DA). Please park in NE portion of the parking as indicated in the map below (@fig-parking).
+2.  **SunGro Horticulture** 9:30 - 11:45
+    -   Peat extraction/harvesting
+    -   Environmental monitoring and mitigation measures
+    -   Fen restoration and reclamation
+    -   Organic Soil pit with pedology lesson
+3.  **Lunch** 12:00-1:00
+    -   Rivers Edge Resort
+    -   Catered by The Spicy Radish
+    -   Guest peaker TBD
+4.  **OK Farms** 1:15-3:30
+    -   Egg production and feed mill
+    -   Grain and oilseed farm
+    -   Soil and manure management
+    -   Luvisol Soil pit with pedology lesson
+5.  **Drop-off** 5:00
+    -   Sobeys Kenaston - [1660 Kenaston Blvd, Winnipeg, MB](https://maps.app.goo.gl/TmfyqeziMwYLU29DA)
+
+![Bus pick-up and parking location. 1660 Kenaston Blvd, Winnipeg, MB](./images/parking.png){#fig-parking width="40%" fig-align="left"}
+
+::: {.block fill="luma(230)" inset="8pt" radius="4pt"}
+**Thank you, from the MSSS Executive Committee!**
+
+Inoka Amarakoon, Henrique Da Ros Carvalho, Alexander Koiter, Lindsey Andronak, Megan Westphal, and Ehsan Chatraei
+:::
+
+::: {.block fill="luma(230)" inset="8pt" radius="4pt"}
+**Many thanks to guides and instructors!**
+
+Tim North (Sungro), Andrew Toews (OK Farms), Megan Westphal (MB Agriculture), Gladys Mumbi, and Collins Chilaka (Brandon University)
+:::
+
+{{< pagebreak >}}
+
+```{=typst}
+#set align(center)
+```
+::: {.center style="font-size: 200%"}
+Thank you to our sponsers!
+:::
+
+::: {.center style="font-size: 125%"}
+**Ah**
+:::
+
+::: {layout-ncol="2"}
+![](./images/ah1.jpg){width="75%" fig-align="center"}
+
+![](./images/ah2.svg){width="75%" fig-align="center"}
+
+![](./images/ah3.jpg){width="75%" fig-align="center"}
+
+![](./images/ah4.jpg){width="75%" fig-align="center"}
+:::
+
+::: {.center style="font-size: 125%"}
+**Bt**
+:::
+
+::: {layout-ncol="2"}
+![](./images/bt1.png){width="35%" fig-align="center"}
+
+![](./images/bt2.png){width="50%" fig-align="center"}
+:::
+
+::: {.center style="font-size: 125%"}
+**Ck**
+:::
+
+::: {layout-ncol="3"}
+![](./images/ck1.png){width="65%" fig-align="center"}
+
+![](./images/ck2.jpg){width="65%" fig-align="center"}
+
+![](./images/ck3.jpg){width="65%" fig-align="center"}
+
+![](./images/ck4.png){width="65%" fig-align="center"}
+
+![](./images/Untitled.png){width="65%" fig-align="center"}
+
+![](./images/ck6.png){width="65%" fig-align="center"}
+:::
+
+```{=typst}
+#set align(left)
+```
+{{< pagebreak >}}
+
+# Tour Map
+
+::: {#fig-stops layout-ncol="1"}
+![](./images/tour_map.png){width="100%" fig-align="center"}
+
+![](./images/tour_map2.png){width="100%" fig-align="center"}
+
+Overview of the tour stops in southeastern Manitoba. Maps made from Esri Imagery.
+:::
+
+{{< pagebreak >}}
+
+# Regional Climate and Soil Information
+
+## Regional Climate and Weather
+
+![1981-2010 climate normals for Pinawa MB. Data from https://climate.weather.gc.ca/climate_normals.](./images/climate.png){width="80%" fig-align="center"}
+
+| Parameter                                | Winnipeg | Pinawa  |
+|:-----------------------------------------|:---------|:--------|
+| Annual total precipitation (mm)          | 521.1    | 578.3   |
+| Snowfall (snow melt equivalent)(mm)      | 113.7    | 113.9   |
+| Growing season precip (May – August)(mm) | 303.2    | 319.8   |
+| Average annual temperature (°C)          | 3.0      | 2.8     |
+| GDD (base 5°C)                           | 1820.7   | 1744.0  |
+| Average last spring frost                | May 23   | May 27  |
+| Average first fall frost                 | Sept 22  | Sept 19 |
+| Frost free days                          | 121      | 113     |
+
+: Overview of climate for Winnipeg and Pinawa MB
+
+{{< pagebreak >}}
+
+## Soil Chraracteristics
+Additional soil and terrain information for the RM of Whitemouth can be found at [https://publications.gc.ca/collections/collection_2018/aac-aafc/A58-2-99-24-eng.pdf](https://publications.gc.ca/collections/collection_2018/aac-aafc/A58-2-99-24-eng.pdf)
+
+### Soil Texture
+
+![Surface soil texture groups for the tour area](./images/texture_map.png){width="85%" fig-align="left"}
+
+### Drainage Class
+
+![Soil drainage classes for the tour area](./images/drainage_map.png){width="85%" fig-align="left"}
+
+{{< pagebreak >}}
+
+### Soil Salinity
+
+![Soil salinity classes for the tour area](./images/salt_map.png){width="85%" fig-align="left"}
+
+### Agriculture Capability
+
+![Agriculture capability for dryland agriculture. Class 1 = Most capable; Class 7 = Least capable.](./images/capability_map.png){width="85%" fig-align="left"}
+
+{{< pagebreak >}}
+
+## Whitemouth River Watershed Natural Area
+
+Below is a description of the Whitemouth River Watershed reproduced from Nature Conservancy Canada [(www.natureconservancy.ca)](www.natureconservancy.ca).
+
+The Whitemouth River Watershed (WRW) represents a hot spot for species diversity in Manitoba. This landscape is the meeting place of the boreal coniferous forest, the eastern Superior mixed forest and vast peatland complexes. Peatlands store more carbon per unit area than any other terrestrial ecosystem on Earth and, along with other wetland types, extends across almost half of the WRW. Carbon accumulation occurs in organic matter that has built up as peat over thousands of years.
+
+The Whitemouth and Birch rivers wind their way, generally north, through the natural area towards their confluence with the Winnipeg River. Large peatland expanses dominate the southern portion of the watershed and seepage slopes along the Whitemouth River "valley" in the northern portion. Bands of rich riparian gallery forest occur immediately adjacent to the Whitemouth, Birch and Boggy rivers and Whitemouth Lake. Mixed deciduous and upland coniferous forest occurs on better-drained soils. The largely flat landscape typical of land formed under the influence of glacial Lake Agassiz is punctuated by bedrock outcrops of the Canadian Shield in the northeastern part of the Natural Area and by a series of sandy and gravelly morainal and beach deposits along the western side.
+
+Gray wolf and the globally uncommon mottled duskywing still roam the natural area’s large blocks of relatively intact forest. The rivers of the WRW are characterized by a fauna that is unique among Canadian rivers and support one of Canada’s only populations of the threatened carmine shiner. Hardwood-dominated eastern deciduous floodplain forests extend over a small portion of the landscape but support a unique species assemblage, including several provincially rare species more typical of eastern North America (e.g., Bloodroot and Dutchman’s Breeches).
+
+![Boreal forest marsh, Whitemouth, Manitoba (Photo by NCC)](./images/boreal.jpg)
+
+{{< pagebreak >}}
+
+# SunGro Tour Stop
+
+## Objectives
+
+1.  Understand the formation of the peatland complexes in south-eastern MB
+2.  Overview of the peat harvesting operations at Elma MB
+3.  Overview of the environmental monitoring and mitigation
+4.  Learn about current projects
+5.  Organic soil pedology lesson
+
+## Formation of Peatlands
+
+## Peat Extraction
+
+-   Elma bog is located in the Lake of the Woods Ecoregion of the Boreal Shield Ecozone
+    -   Total of 818.853 hectares of harvestable area
+-   Original Quarry Lease issued 1992-05-12
+-   Operations began in 1974
+    -   Elma processing plant was constructed in 1974
+-   Operations progressively ceased from 1991 to 2017
+
+## Environmental Monitoring and Mitigation
+
+-   Water quality was tested during harvest operations every week to monitor pH and total suspended solids
+-   Peatland Management Plan approved in September 2019
+    -   A minimum of 0.5m residual peat once harvest is complete
+-   Effects, monitoring and mitigation measures of the peat harvesting area can be found in @fig-table
+
+{{< pagebreak >}}
+
+![Effects, monitoring and mitigation measures](./images/appendix2.png){#fig-table width="6.5in"}
+
+{{< pagebreak >}}
+
+## Restoration
+
+-   Reclamation began in 1991 on field 6 South
+    -   To date 240 hectares have been reclaimed to various stages.
+-   Checkerboard reclamation project led by Peatland Ecology Research Group (PERG) completed in September 2015
+    -   Tree plantation and fertilization were added to the checkerboard reclamation area in July 2016
+
+![Top: Final configuration of the Elma North experimental sector. Bottom: Profile view of the transition zone sloping after restoration (in red). Information from Fen restoration in Manitoba – Final Report. Peatland Ecology Research Group, Université Laval, Québec.](./images/Waffle.png){width="85%" fig-align="left"}
+
+{{< pagebreak >}}
+
+-   Active restoration being completed using the Moss Layer Transfer Technique
+
+::: {#fig-restoration layout-ncol="2"}
+![The visible difference between donor moss and straw spread (photo taken from AB for visual purposes only)](./images/IMG_0750.JPEG){#fig-straw width="100%"}
+
+![Manure spreader spreading donor moss (photo taken from AB for visual purposes only)](./images/IMG_0759.JPEG){#fig-manure width="100%"}
+
+![Mulching donor](./images/Mulching.jpg){#fig-mulch width="100%"}
+
+![Windrowed donor material](./images/Windrowed.jpg){#fig-windrow width="100%"}
+
+Active restoration
+:::
+
+## Research Projects
+
+{{< pagebreak >}}
+
+## Organic Soil Order
+
+Soils of the Organic order are composed largely of organic materials. They include most of the soils commonly known as peat, muck, or bog and fen soils. Most Organic soils are saturated with water for prolonged periods. These soils occur widely in poorly and very poorly drained depressions and level areas in regions of subhumid to perhumid climate and are derived from vegetation that grows in such sites. However, one group of Organic soils (Folisols) consists of upland (folic) organic materials, generally of forest origin. These Folisols are well to imperfectly drained, although they may become saturated after rainfall or snowmelt. Wetland organic soils are largely composed of organic materials and commonly referred to as peat or muck soils. Bogs, fens, swamps and marshes are wetland forms that accumulate organic (peat and muck) materials.
+
+| **Peatland classes** | **Nutrient status**                                                         | **Hydrology**                                                                        | **Type of peat**                                                                              |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| Bog                  | Ombotrophic; nutrient-poor                                                  | High water table Isolated from mineralized ground water                              | Acid, weakly to moderately decomposed moss (sphagnum) or woody peat                           |
+| Fen                  | Mesotrophic; nutrient rich waters originating form mineral soils            | High water table low internal drainage                                               | Slightly acid to neutral, moderately well to well decomposed sedge or brown moss              |
+| Swamp                | Nutrient rich groundwater and peat                                          | Standing or gently moving waters; may also have subsurface flow of mineralized water | Neutral to slightly alkaline; well decomposed woody peat                                      |
+| Marsh                | Rich in nutrients; inundated by standing or slow moving nutrient rich water | Fluctuating seasonal surface water levels                                            | Neutral to slightly alkaline; well decomposed peat with variable amounts of mineral materials |
+
+: Chemical and physical properties of wetland classes. Reproduced from: Kroetsch DJ, Geng X, Chang SX, Saurette DD (2011) Organic Soils of canada: Part 1. Wetland Organic soils. Can J Soil Sci 91:807–822. <https://doi.org/10.4141/cjss10043>.
+
+![Diagrammatic horizon pattern of some subgroups of the Fibrisol, Mesisol and Humisol great groups. See below for a descriptions of tiers, horizons, great groups, and subgroups. Reproduced from the [Canadian Guide to Soil Classification 3rd Ed.](https://sis.agr.gc.ca/cansis/taxa/cssc3/index.html)](./images/O_groups.png){width="100%"}
+
+### von Post scale of decomposition
+
+In this field test squeeze a sample of the organic material within the closed hand. Observe the color of the solution that is expressed between the fingers, the nature of the fibers, and the proportion of the original sample that remains in the hand. Ten classes are defined as follows:
+
+1.  Undecomposed; plant structure unaltered; yields only clear water colored light yellow-brown.
+
+2.  Almost undecomposed; plant structure distinct; yields only clear water colored light yellow-brown.
+
+3.  Very weakly decomposed; plant structure distinct; yields distinctly turbid brown water, no peat substance passes between the fingers, residue not mushy.
+
+4.  Weakly decomposed; plant structure distinct; yields strongly turbid water, no peat substance escapes between the fingers, residue rather mushy.
+
+5.  Moderately decomposed; plant structure clear but becoming indistinct; yields much turbid brown water, some peat escapes between the fingers, residue very mushy.
+
+6.  Strongly decomposed; plant structure somewhat indistinct but clearer in the squeezed residue than in the undisturbed peat; about one-third of the peat escapes between the fingers, residue strongly mushy.
+
+7.  Strongly decomposed; plant structure indistinct but recognizable; about half the peat escapes between the fingers.
+
+8.  Very strongly decomposed; plant structure very indistinct; about two-thirds of the peat escapes between the fingers, residue almost entirely resistant remnants such as root fibers and wood.
+
+9.  Almost completely decomposed; plant structure almost unrecognizable; nearly all the peat escapes between the fingers.
+
+10. Completely decomposed; plant structure unrecognizable; all the peat escapes between the fingers.
+
+### Tiers
+
+The control section for Fibrisols, Mesisols, and Humisols extends from the surface either to a depth of 1.6 m or to a lithic contact. It is divided into tiers, which are used in classification. The tiers are layers based upon arbitrary depth criteria.
+
+-   **Surface tier:** The surface tier is 40 cm thick exclusive of loose litter, crowns of sedges and reeds, or living mosses. Mineral soil on the surface of the profile is part of the surface tier, which is used to name the soil family. Shallow lithic organic soils may have only a surface tier.
+
+-   **Middle tier:** The middle tier is 80 cm thick. It establishes the great group classification if no terric, lithic, or hydric substratum is present. Otherwise the dominant kind of organic material in this and the surface tier establishes the great group classification. The nature of the subdominant organic material in the middle or bottom tier assists in establishing the subgroup classification.
+
+-   **Bottom tier:** The bottom tier is 40 cm thick. The material in this tier establishes in whole or in part the subgroup classification.
+
+### Horizons
+
+-   **Of:** This O horizon consists largely of fibric materials that are readily identifiable as to botanical origin
+-   **Om:** This O horizon consists of mesic material, which is at a stage of decomposition intermediate between fibric and humic materials
+-   **Oh:** This O horizon consists of humic material, which is at an advanced stage of decomposition
+-   **W:** This layer of water may occur in Gleysolic, Organic, or Cryosolic soils.
+-   **C:** This mineral horizon is comparatively unaffected by the pedogenic processes operating in A and B horizons
+
+### Great Groups and Subgroups
+
+**Fibrisol:** Soils of this great group are composed largely of relatively undecomposed fibric organic material. Fibric material is usually classified on the von Post scale of decomposition as classes 1-4.
+
+-   Typic Fibrisol (TY.F)
+-   Humic Fibrisol (HU.F)
+-   Hydric Fibrisol (HY.F)
+
+**Mesisol:** Soils of this great group are at a stage of decomposition intermediate between Fibrisols and Humisols. Mesisols have a dominantly mesic middle tier or middle and surface tiers if a terric, lithic, or hydric contact occurs in the middle tier.
+
+-   Typic Mesisol (TY.M)
+-   Limnic Mesisol (LM.M)
+-   Terric Mesisol (T.M)
+
+**Humisol:** Soils of this great group are at the most advanced stage of decomposition of the great groups of Organic soils. Most of the material is humified with few recognizable fibers.
+
+-   Typic Humisol (TY.H)
+-   Cumulic Humisol (CU.H)
+
+![Sketch the SunGro soil profile](./images/profile_sketch.png){width="100%"}
+
+{{< pagebreak >}}
+
+# OK Farms Tour Stop
+
+## Objectives
+
+1.  Overview of farm and farming practices
+2.  Discuss the challenges and success of poultry manure management
+3.  Overview of feed mill operations
+4.  Luvisol soil pedology lesson
+
+## OK Farms
+
+OK farms is a 3rd generation farm located along the banks of the Whitemouth River. This 240 ha (600 acre) farm grows a variety of row crops including soybeans and corn. OK farms also produces poultry (eggs) with approximately 32,000 hens and has recently transitioned to a free-run operation. This farm comes equipped with an onsite feed mill and they use their own corn as part of the feed ingredients. The poultry manure produce is used on farm as part of their soil fertility management plan.
+
+## Luvisol Soil Order
+
+Soils of the Luvisolic order generally have light-colored, eluvial horizons and have illuvial B horizons in which silicate clay has accumulated. These soils develop characteristically in well to imperfectly drained sites, in sandy loam to clay, base-saturated parent materials under forest vegetation in subhumid to humid, mild to very cold climates.
+
+### Hadashville Series (HHV)
+
+The Hadashville series consists of imperfectly drained Gleyed Dark Gray Luvisol soils developed on moderately to strongly calcareous, stratified, medium to moderately coarse textured (VFSL, L, SiL to VFS, LVFS, FSL), alluvial and lacustrine deposits. These deposits may be underlain by clay or strongly calcareous glacial till substrates. This soil type occurs in narrow strips along the Whitemouth, and Birch Rivers. Topography is level to irregular, very gently sloping. Surface runoff is slow and internal drainage is medium to moderately rapid but may be impeded by a high water-table. Native vegetation consists of aspen, balsam poplar, white spruce, elm and ash. In open stands dense shrub, herb and grass layers are found. The soils are free of stones except for scattered surface stones in areas where the underlying glacial till is close to the surface.
+
+The Hadashville soils are characterized by a thin, very dark brown slightly acid leaf mat overlying light grayish brown Aeg horizon neutral in reaction. The dark grayish brown Btg horizon has a slight clay accumulation and is slightly acid to neutral in reaction. Occasional flooding by lime-charged water causes these soils in some areas to be mildly alkaline and calcareous to the surface. The Hadashville clay variant, HHVc, is areas of the Hadashville soils in which a deposit of weakly to moderately calcareous lacustrine clay occurs within 75 cm of the surface.
+
+A representative Hadashville Series profile presented below:
+
+**L-H** - 2.5 to 0cm, very dark brown to black (10YR2/2 to 2/1, dry) partially to well decomposed leaf litters; medium acid in reaction; abrupt, smooth, lower boundary.
+
+**Ahe** - 0 to 5cm, very dark grey (10YR3.5/1, dry) loamy fine Sand; loose; slightly acid; abrupt, wavy, lower boundary.
+
+**Ae** - 5 to 13cm, grey to light grey (10YR6/1, dry) fine Sand; loose; slightly acid; flecked with numerous iron mottles; clear, wavy, lower boundary.
+
+**Bt** - 13 to 31cm, greyish brown (2.5Y4/2, dry) fine sandy clay loam; moderate coarse granular to moderate fine subangular blocky; moist firm, dry hard; mottled, neutral in reaction; abrupt, wavy, lower boundary.
+
+**Ck** - 31 to 60cm, dark grey (5Y4/4, dry) clay; massive, breaking to moderately strong coarse granular to fine blocky-like structures; firm when moist, very hard when dry; numerous lime carbonate concretions, moderately alkaline and moderately calcareous.
+
+![Sketch the OK Farms soil profile](./images/profile_sketch.png){width="100%"}
+
+{{< pagebreak >}}
+
+# Summer Tour Evaluation Form
+
+Please take some time and give your feedback and let us know what we did well, what needs improvement and what you would like to see next time.
+
+**Bus ride**
+
+(Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Comfortable)
+
+Comments: ______________________________________________________________________
+ ________________________________________________________________________________
+
+**Stop 1 SunGro**
+
+(Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Fabulous and informative)
+
+Comments: ______________________________________________________________________
+ ________________________________________________________________________________
+
+**Lunch**
+
+(Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Delicious)
+
+Comments: ______________________________________________________________________
+ ________________________________________________________________________________
+
+**Lunch Guest Speaker**
+
+(Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Fantastic)
+
+Comments: ______________________________________________________________________
+ ________________________________________________________________________________
+
+**Stop 2 OK Farms**
+
+(Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Fabulous and informative)
+
+Comments: ______________________________________________________________________
+ ________________________________________________________________________________
+
+**Information Booklet**
+
+(Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Very informative)
+
+Comments: ______________________________________________________________________
+ ________________________________________________________________________________
+
+**Other Suggestions and Feedback**
+
+Comments: ______________________________________________________________________
+ ________________________________________________________________________________
