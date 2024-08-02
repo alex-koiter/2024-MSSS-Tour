@@ -35,7 +35,7 @@ Thursday Aug 08, 2024
 # Itinerary
 
 1.  **Pick-up** 8:00am
-    -  Sobeys Kenaston - [1660 Kenaston Blvd, Winnipeg, MB](https://maps.app.goo.gl/TmfyqeziMwYLU29DA). Please park in NE portion of the parking as indicated in the map below (@fig-parking).
+    -   Sobeys Kenaston - [1660 Kenaston Blvd, Winnipeg, MB](https://maps.app.goo.gl/TmfyqeziMwYLU29DA). Please park in NE portion of the parking as indicated in the map below (@fig-parking).
 2.  **SunGro Horticulture** 9:30 - 11:45
     -   Peat extraction/harvesting
     -   Environmental monitoring and mitigation measures
@@ -152,12 +152,15 @@ Overview of the tour stops in southeastern Manitoba. Maps made from Esri Imagery
 | Average first fall frost                 | Sept 22  | Sept 19 |
 | Frost free days                          | 121      | 113     |
 
-: Overview of climate for Winnipeg and Pinawa MB
+: Overview of climate for Winnipeg and Pinawa MB {.striped .hover}
+
+------------------------------------------------------------------------
 
 {{< pagebreak >}}
 
 ## Soil Chraracteristics
-Additional soil and terrain information for the RM of Whitemouth can be found at [https://publications.gc.ca/collections/collection_2018/aac-aafc/A58-2-99-24-eng.pdf](https://publications.gc.ca/collections/collection_2018/aac-aafc/A58-2-99-24-eng.pdf)
+
+Additional soil and terrain information for the RM of Whitemouth can be found at <https://publications.gc.ca/collections/collection_2018/aac-aafc/A58-2-99-24-eng.pdf>
 
 ### Soil Texture
 
@@ -261,7 +264,7 @@ Active restoration
 Soils of the Organic order are composed largely of organic materials. They include most of the soils commonly known as peat, muck, or bog and fen soils. Most Organic soils are saturated with water for prolonged periods. These soils occur widely in poorly and very poorly drained depressions and level areas in regions of subhumid to perhumid climate and are derived from vegetation that grows in such sites. However, one group of Organic soils (Folisols) consists of upland (folic) organic materials, generally of forest origin. These Folisols are well to imperfectly drained, although they may become saturated after rainfall or snowmelt. Wetland organic soils are largely composed of organic materials and commonly referred to as peat or muck soils. Bogs, fens, swamps and marshes are wetland forms that accumulate organic (peat and muck) materials.
 
 | **Peatland classes** | **Nutrient status**                                                         | **Hydrology**                                                                        | **Type of peat**                                                                              |
-|:-----------------|:-----------------|:-----------------|:-----------------|
+|:-----------------|:-----------------|:-----------------|:------------------|
 | Bog                  | Ombotrophic; nutrient-poor                                                  | High water table Isolated from mineralized ground water                              | Acid, weakly to moderately decomposed moss (sphagnum) or woody peat                           |
 | Fen                  | Mesotrophic; nutrient rich waters originating form mineral soils            | High water table low internal drainage                                               | Slightly acid to neutral, moderately well to well decomposed sedge or brown moss              |
 | Swamp                | Nutrient rich groundwater and peat                                          | Standing or gently moving waters; may also have subsurface flow of mineralized water | Neutral to slightly alkaline; well decomposed woody peat                                      |
@@ -270,6 +273,8 @@ Soils of the Organic order are composed largely of organic materials. They inclu
 : Chemical and physical properties of wetland classes. Reproduced from: Kroetsch DJ, Geng X, Chang SX, Saurette DD (2011) Organic Soils of canada: Part 1. Wetland Organic soils. Can J Soil Sci 91:807–822. <https://doi.org/10.4141/cjss10043>.
 
 ![Diagrammatic horizon pattern of some subgroups of the Fibrisol, Mesisol and Humisol great groups. See below for a descriptions of tiers, horizons, great groups, and subgroups. Reproduced from the [Canadian Guide to Soil Classification 3rd Ed.](https://sis.agr.gc.ca/cansis/taxa/cssc3/index.html)](./images/O_groups.png){width="100%"}
+
+------------------------------------------------------------------------
 
 ### von Post scale of decomposition
 
@@ -349,11 +354,102 @@ The control section for Fibrisols, Mesisols, and Humisols extends from the surfa
 
 OK farms is a 3rd generation farm located along the banks of the Whitemouth River. This 240 ha (600 acre) farm grows a variety of row crops including soybeans and corn. OK farms also produces poultry (eggs) with approximately 32,000 hens and has recently transitioned to a free-run operation. This farm comes equipped with an onsite feed mill and they use their own corn as part of the feed ingredients. The poultry manure produce is used on farm as part of their soil fertility management plan.
 
+## Egg Production in Manitoba
+
+-   The egg industry in Manitoba includes production and processing
+
+-   There were roughly 2.6 million egg-laying hens and 2.9 million egg-type pullets in Manitoba in 2021
+
+-   An egg layer farm in Manitoba typically houses 15,000 hens that lay about 380,000 dozen eggs per year
+
+-   Egg production in Manitoba generated [\$157 million](https://www.gov.mb.ca/agriculture/markets-and-statistics/financial-statistics/pubs/farm-cash-receipts-2022.pdf) in farm cash receipts in 2022, worth 20.04% of total livestock farm cash receipts
+
+-   Manitoba has seen significant growth in egg production in recent years, with about 2.7 million laying hens and 6.6 million dozen eggs sold in 2021
+
+-   Manitoba produces 10% of Canada’s eggs, with provincial layer allocations controlled through a national supply-managed marketing system
+
+## Laying hen housing environments in Manitoba
+
+::: {layout="[0.2, 0.8]"}
+::: {#firstcol}
+![](./images/poultry_qr.png){width="100%"}
+:::
+
+::: {#secondcol}
+Scan the QR code for information, videos, and photos on the type of layer hen housing in Manitoba!
+:::
+:::
+
+### Layer Hen Manure Management
+
+Layer hen manure is an excellent nutrient resource for crops and forages, however if mis handled can pose environmental burdens for air and water quality. Proper manure management can greatly influence the amount of ammonia emissions and other losses to the environment (runoff). Managing livestock manure can be challenging due to not all animals produce the same quantity or quality of manure, diets and metabolism rates between livestock and bedding material type are a few of the causes of differences between the types of manure. Table 1 presents nutrient content for solid layer, beef and dairy manure. Poultry layer manure has a much higher nutrient content compared to pig, beef or dairy manure having approximately 4x the amount of total nitrogen and phosphorus.
+
+| Solid Manure | TKN  | NH~4~-N | Org N | P    | K    | S   | DM (%) | Available N:P~2~O~5~ |
+|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|
+| Layer        | 46.4 | 27.1    | 19.3  | 17.1 | 14.6 | 3.7 | 35.1   | 0.9                  |
+| Beef         | 10.6 | 1.5     | 9     | 2.0  | 10.5 | 1.8 | 26.1   | 1.0                  |
+| Dairy        | 11.5 | 2.3     | 9.2   | 3.2  | 9    |     | 26.3   | 0.8                  |
+
+: Mean for total N, ammonium, organic N, P, K, S, and available N:P~2~0~5~ ratios for solid layer, beef, and dairy manures (Adapted from Properties of Manure, Manitoba Agriculture 2015)
+
+------------------------------------------------------------------------
+
+::: {layout="[0.2, 0.8]"}
+<div>
+
+![](./images/manure_qr.png){width="100%"}
+
+</div>
+
+<div>
+
+Scan the QR code to learn more about the factors that affect manure composition, properties of manure, how to properly sample manure for analysis (Properties of Manure, Manitoba Agriculture 2015)
+
+</div>
+:::
+
+### Free Run housing Manure Collection
+
+In Free Run housing systems hens have access to roam freely inside the entire barn. Some operations have slotted floors for the manure to fall through and collect beneath others have solid floors with wood shavings or straw, which may be collected multiple times a year or annually.
+
+### Other Laying Hen Housing Operations
+
+Most newer operations in Manitoba are dry manure operations that use manure belts or high-rise systems. Some older or mixed livestock operations will have liquid manure collection and storage systems (Poultry Producer Oct 2021, Mississippi State University Extension Service).
+
+| **Manure Belt System**                                                                                                           | **High-Rise System**                                                                                                                                         |
+|:--------------------------------|:--------------------------------------|
+| \- Manure drops onto belt beneath cage row and is transferred end of the house and outside for removal for storage or composting | \- Manure drops / falls beneath the cages on to dropping boards that are cleaned 4-6x a day or into storage below the cages (can be stored for up to 1 year) |
+| \- Manure is dried while carried along on manure belt                                                                            | \- Directed flow of air over manure keeps most of the NH~3~ from reaching the hens                                                                           |
+| \- Generally better indoor air quality (NH~3~)                                                                                   |                                                                                                                                                              |
+| \- 50% higher installation costs and Less labour intensive, but belt maintenance is crucial                                      |                                                                                                                                                              |
+
+: Comparison of manure belt and high-rise hen layer dry manure systems (Poultry Producer Oct 2021, Mississippi State University Extension Service).
+
+------------------------------------------------------------------------
+
+::: {#fig-barns layout-ncol="2"}
+![High-rise)](./images/high_rise.png){#fig-highrise width="100%"}
+
+![Manure belt)](./images/belt.png){#fig-manurebelt width="100%"}
+
+Schematic representation of high-rise (a) and manure belt (b) layer houses (Poultry Producer Oct 2021, Mississippi State University Extension Service).
+:::
+
+### Questions
+
+1.  How does manure collection differ between OK farms Operation and other styles of housing units?
+
+2.  How and when does OK Farms apply their manure? Do they compost first?
+
+3.  Being located along a surface watercourse what special considerations must be made for manure storage? Scan the QR code for a hint!
+
+![](./images/questio_qr.png){width="15%"}
+
 ## Luvisol Soil Order
 
 Soils of the Luvisolic order generally have light-colored, eluvial horizons and have illuvial B horizons in which silicate clay has accumulated. These soils develop characteristically in well to imperfectly drained sites, in sandy loam to clay, base-saturated parent materials under forest vegetation in subhumid to humid, mild to very cold climates.
 
-### Hadashville Series (HHV)
+## Hadashville Series (HHV)
 
 The Hadashville series consists of imperfectly drained Gleyed Dark Gray Luvisol soils developed on moderately to strongly calcareous, stratified, medium to moderately coarse textured (VFSL, L, SiL to VFS, LVFS, FSL), alluvial and lacustrine deposits. These deposits may be underlain by clay or strongly calcareous glacial till substrates. This soil type occurs in narrow strips along the Whitemouth, and Birch Rivers. Topography is level to irregular, very gently sloping. Surface runoff is slow and internal drainage is medium to moderately rapid but may be impeded by a high water-table. Native vegetation consists of aspen, balsam poplar, white spruce, elm and ash. In open stands dense shrub, herb and grass layers are found. The soils are free of stones except for scattered surface stones in areas where the underlying glacial till is close to the surface.
 
@@ -383,45 +479,44 @@ Please take some time and give your feedback and let us know what we did well, w
 
 (Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Comfortable)
 
-Comments: ______________________________________________________________________
- ________________________________________________________________________________
+Comments: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Stop 1 SunGro**
 
 (Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Fabulous and informative)
 
-Comments: ______________________________________________________________________
- ________________________________________________________________________________
+Comments: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Lunch**
 
 (Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Delicious)
 
-Comments: ______________________________________________________________________
- ________________________________________________________________________________
+Comments: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Lunch Guest Speaker**
 
 (Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Fantastic)
 
-Comments: ______________________________________________________________________
- ________________________________________________________________________________
+Comments: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Stop 2 OK Farms**
 
 (Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Fabulous and informative)
 
-Comments: ______________________________________________________________________
- ________________________________________________________________________________
+Comments: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Information Booklet**
 
 (Not great) \_\_\_1 \_\_\_2 \_\_\_3\_\_\_4 \_\_\_5 (Very informative)
 
-Comments: ______________________________________________________________________
- ________________________________________________________________________________
+Comments: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Other Suggestions and Feedback**
 
-Comments: ______________________________________________________________________
- ________________________________________________________________________________
+Comments: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+{{< pagebreak >}}
+
+Download the pdf version of this booklet using this QR code
+
+![](./images/booklet_qrcode.png){width="40%"}

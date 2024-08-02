@@ -1,6 +1,8 @@
 library(tidyverse)
 library(OpenStreetMap)
 library(sf)
+# Soil data can be downloaded from Data MB Geoportal (https://geoportal.gov.mb.ca/maps/45fe2e7537ce499bbfe90c15cca2f6f4)
+
 map <- openmap(c(49.585661, -95.731583), c( 50.080105, -97.35741), zoom = 11,
                   type = "esri-imagery", mergeTiles = TRUE)
 
