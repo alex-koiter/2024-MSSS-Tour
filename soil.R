@@ -53,13 +53,16 @@ stops <- data.frame(Stop = c("Winnipeg", "SunGro", "OK Farms", "Rivers Edge"), l
 texture <- ggplot() +
   geom_sf(data = plot1, aes(fill = Texture), lwd = 0, show.legend = T) +
   geom_sf(data = filter(stops, Stop != "Winnipeg")) +
-  theme_minimal() +
+  theme_void() +
   theme(axis.title = element_blank(),
         axis.text = element_blank(),
         legend.position = "right",
         legend.title = element_blank(),
         axis.ticks = element_blank(),
-        plot.margin = unit(c(0, 0, 0, 0), "null")) +
+        plot.margin = margin(t = 0,  
+                             r = 0,  
+                             b = 0, 
+                             l = 0)) +
   ggrepel::geom_label_repel(
     data = filter(stops, Stop != "Winnipeg"),
     aes(label = Stop, geometry = geometry),
@@ -79,7 +82,7 @@ ggsave(plot = texture, filename = "./images/texture_map.png", height = 100, widt
 drain <- ggplot() +
   geom_sf(data = plot1, aes(fill = drainage), lwd = 0, show.legend = T) +
   geom_sf(data = filter(stops, Stop != "Winnipeg")) +
-  theme_minimal() +
+  theme_void() +
   theme(axis.title = element_blank(),
         axis.text = element_blank(),
         legend.position = "right",
@@ -102,7 +105,7 @@ ggsave(plot = drain, filename = "./images/drainage_map.png", height = 100, width
 salt <- ggplot() +
   geom_sf(data = plot1, aes(fill = stringr::str_wrap(salt,10)), lwd = 0, show.legend = T) +
   geom_sf(data = filter(stops, Stop != "Winnipeg")) +
-  theme_minimal() +
+  theme_void() +
   theme(axis.title = element_blank(),
         axis.text = element_blank(),
         legend.position = "right",
@@ -124,7 +127,7 @@ ggsave(plot = salt, filename = "./images/salt_map.png", height = 100, width = 15
 capability <- ggplot() +
   geom_sf(data = plot1, aes(fill = capability), lwd = 0, show.legend = T) +
   geom_sf(data = filter(stops, Stop != "Winnipeg")) +
-  theme_minimal() +
+  theme_void() +
   theme(axis.title = element_blank(),
         axis.text = element_blank(),
         legend.position = "right",

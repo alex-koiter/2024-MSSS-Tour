@@ -206,7 +206,23 @@ Gray wolf and the globally uncommon mottled duskywing still roam the natural are
 4.  Learn about current projects
 5.  Organic soil pedology lesson
 
-## Formation of Peatlands
+## Formation of Peatlands in Eastern MB
+
+::: {style="font-size: 80%;"}
+Written by Collins Chilaka
+:::
+
+Peatland complexes are intricate networks of bogs and fens, each a unique ecosystem characterized by the accumulation of peat which is a dense organic material formed from partially decomposed plant matter (in these ecosystems, typically Sphagnum mosses). These complexes in eastern Manitoba developed roughly about 5-6,000 years ago and is influenced by a combination of geological, climatic, hydrology, and vegetation factors. Glacial activity during the last Ice Age changed the region's environment, leaving behind a variety of landforms, including depressions and basins that are favorable to the development of peatlands. At its simplest, peatlands need an area that is cold, flat, wet and plugged. The cold climate of Manitoba limits evaporative losses, and the flat landscape delays lateral runoff (streams). Sufficient precipitation helps maintain high water tables, while the glacial Lake Agassiz clays prevent vertical seepage losses (plugged).
+
+Peat accumulates in these ecosystems because the rate of addition of new material (Sphagnum moss litter) exceeds the decay/loss through dissolved organic carbon export and losses to the atmosphere (CO~2~ and CH~4~). The slow decomposition of organic matter allows peat to accumulate over time; a rough estimate is about 0.5 to 1 mm of peat is created each year. The vegetation in peatlands is typically dominated by mosses, particularly Sphagnum moss, which plays a key role in peat accumulation. Other common plants include sedges, shrubs, and trees such as black spruce and tamarack. There are several types of peatlands found in Eastern Manitoba, each with distinct characteristics. The two main types are bogs and fens. Bogs are ombrotrophic peatlands, meaning they receive water primarily from precipitation. They are typically acidic and nutrient-poor, with vegetation dominated by Sphagnum mosses. Fens, on the other hand, are minerotrophic peatlands that receive water from precipitation, as well as surface and groundwater (Landry and Rocherfort, 2012) sources. Fens tend to be less acidic and more nutrient-rich than bogs, supporting a more diverse range of plant species.
+
+These peatlands play a vital role in the region’s ecology, providing habitat for diverse plant and animal species and storing significant amounts of carbon. Canada's total peatland area is approximately 113 million hectares, with Manitoba constituting 17%, or 19.2 million hectares (Daigle and Gautreau-Daigle, 2001). Understanding the formation and function of peatlands is essential for their conservation and the mitigation of climate change.
+
+![Global peatland distribution (from Xu et al., 2018). The black shading classes are applicable to Canada and some smaller areas as shown. Elsewhere, black = peat and white = no peat.](./images/peat1.png)
+
+![Map showing peatland area and permafrost zones across Canada](./images/peat23.png)
+
+{{< pagebreak >}}
 
 ## Peat Extraction
 
@@ -257,7 +273,83 @@ Active restoration
 
 ## Research Projects
 
-{{< pagebreak >}}
+### Summary of research approach towards fen restoration of a peatland
+
+::: {style="font-size: 80%;"}
+Written by Collins Chilaka
+:::
+
+Despite covering only 3% of the Earth's surface, peatlands store more carbon than all of the world's forests combined (Kimmel and Mander, 2010). Peatlands cover almost one-third of Manitoba's land area (Tanorcai 2000); bogs and fens are the two most common types of peatlands. Bog peatlands obtain all of their water from precipitation, and, as such, typically are oligotrophic with low pH (\<4.5); fens, however, can receive their water from additional sources such as streams and groundwater discharge, and tend to be more minertrophic with higher pH.
+
+Some of these peatlands, often bogs, are utilized for horticultural peat, which is typically used to grow vegetables and flowers in gardens or commercial greenhouses. Bog peatlands are the most commercially viable peatland type because of the abundance of Sphagnum peat, as Sphagnum mosses are the dominant peat forming species and are more prevalent in bogs than fens. Canada's abundance of peatlands has made it one of the world's leaders in harvested peat production. Once the peat has been extracted, prompt and active restoration is critical (Nugent et al., 2019) so that the sites can resume carbon accumulation again. Most extracted peatlands in Canada have been restored to a bog peatland; but, depending on the qualities of the residual peat (such as pH) in the extracted field, it may be more appropriate to restore these sites to fen peatland. In addition, much of the Canadian research in peatland restoration occurred in Quebec which is a different climate than Quebec. Thus, considering Manitoba’s colder and drier climate (than Quebec), other approach to restoration may be needed.
+
+My research is on restoring the impacted peatland operated by SunGro Horticulture, to a fen-based peatland due to its hydrological advantage for the success of the restoration project, using a method known as the Moss Layer Transfer Technique (MLTT). The Moss Layer Transfer Technique (MLTT) developed by the Peatland Ecology Research Group (PERG, Université Laval) for the restoration of peatlands (bogs, poor fens and moderate-rich fens) is based on active reintroduction of peatland plant species combined with rewetting through hydrological management.
+
+It is improbable that peatlands will spontaneously reestablish the appropriate hydrological conditions after harvesting to sustain native peatland vegetation and sequester carbon. Harvested sites rarely return to functional ecosystems after abandonment because drainage and peat extraction lower the water table and expose relatively decomposed peat, which is hydrologically unsuitable for Sphagnum moss reestablishment. Line Rochefort and her research group in 2003, who are the proponents of the MLTT proposed a specific set of restoration measures for North American bog peatlands. These measures include ditch blocking and constructing bunds along elevation contour line to retain and direct water flow over the site and creating microtopography variation to give the reintroduced vegetation localized habitat for regeneration. The success of the Moss Layer Transfer Technique is largely related to how well the restoration work is done, as well as the meteorological and hydrological conditions prevailing while the work is carried out.
+
+The Elma study site has been divided into 12 plots, with 6 treatments (with duplicates) to be applied across the site. These treatments are applied in combination with other treatments and some stand alone, which range from furrow diking or ridging parts of the site to help re-establish the natural water flow and retention, to the application of donor moss material especially sphagnum moss, and straw mulch, to help re-establish the native vegetation, which is essential to peat formation, amongst other benefits, regulating temperature conditions and preventing erosion respectively. There are also some sites that has no treatment applied which would serve as a control to monitor ongoing developments.
+
+Since we are concerned about the water budget of the peatland, climate data (temperature, precipitation) is being monitored and collected from a weather station on site. Monitoring wells were constructed and installed on selected locations to understand the water table level and flow direction of the ground water. Water pressure is also being monitored as well as soil moisture along transects. Evaporation is being measured with weighing lysimeters. The overall goal of the research is to see if a modified MLTT approach would be suitable to the restoration of the peatland to a fen at the edge of the Canadian prairies.
+
+::: {layout-ncol="2"}
+![](./images/peat3.png){width="100%"}
+
+![](./images/peat4.png){width="100%"}
+
+An overview of the study site showing different segments for treatment Elma North
+:::
+
+![Applying mulch to parts of the treatment site](./images/peat5.png){width="100%"}
+
+### Fen restoration in SE MB: Important of ecotones
+
+::: {style="font-size: 80%;"}
+Written by Gladys Mumbi
+:::
+
+Canadian peatlands have been receiving considerable attention because of their importance to climate change mitigation. Peatlands ecosystems are terrestrial environments where over the long term, net primary production exceeds organic matter decomposition, leading to a substantial accumulation of a deposit rich in incompletely decomposed organic matter or peat (Joosten, 2000). One-third of global peatlands are found in Canada’s arctic, subarctic and boreal regions spreading over 1.1 million square km. They store about 150 billion tons of carbon, about 30% of the world’s peatland carbon. In Canada, a very small percentage of these peatlands (0.03%) are used for horticultural peat production (Walters and Shrubsole, 2003) In the mid to late 90s, Canadian universities and Canadian peat producers launched a research collaboration aimed at developing techniques to restore harvested/extracted peatlands to bog ecosystems (Quinty and Rochefort, 2003). The project was to be conducted by Peatland Ecology Research Group (PERG) The nature of a peatland is largely controlled by hydrological processes, particularly water table position (Charman, 2002). The Canadian peat restoration approach, called the Moss Layer Transfer Technique, is based on the introduction of peat plant species and hydrological management to raise and stabilize water levels. It involves the following: surface preparation, plant collection, plant spreading, straw spreading, fertilization and blocking drainage ditches This study at Elma in Manitoba breaks new ground in peatland restoration in various aspects:
+
+1.  Application of Moss Layer Transfer Technique for the restoration process in a much drier climate. Manitoba is hotter, drier and has more evaporation demand than Quebec
+2.  Restoring a fen rather than a bog because of the unique characteristics of the peatland after peat harvesting. The MLTT has been focused on bog restoration, not fen restoration
+3.  Largest single restoration project PERG/Canadian Sphagnum Peat Moss Association (CSPMA) as more than 1000ha is to be restored
+4.  Incorporating ecotone creation and management as a core component of the restoration process, moving beyond traditional approaches that primarily focus on the peatland core. As fens have more complicated hydrology naturally, efforts to recreate this as part of the restoration process have been included
+
+**Ecotones**
+
+These are transition zones between two different ecosystems that allow for movement of water, nutrients and energy between them. Their characteristics and functions include:
+
+-   Increased biodiversity or edge effect (Kark et al, 2006)
+-   Habitat connectivity (Ries et al, 2004)
+-   Increased hydrological connectivity (Kark et al, 2006)
+
+To assess the ecohydrological functioning of ecotones, I have instrumented the following treatments:
+
+-   Water table monitoring- wells and data loggers for continuous monitoring
+-   Soil moisture profiling- use of soil moisture probes at different depths on all transects
+-   Evapotranspiration measurements- lysimeters weight is recorded for ET
+-   Hydraulic conductivity to quantify groundwater flows
+-   Elevation measurements- use smart level at different heights on the transects
+-   Vegetation surveys
+
+The creation of ecotones as part of peatlands restoration is a relatively newer concept that is gaining more attention due to increased awareness of the ecological functions of these transition zones. More and more projects are beginning to incorporate this idea as seen in Haapalehto et al, 2017
+
+::: {style="font-size: 80%;"}
+**References**
+
+Joosten and Clarke, 2002. Peatlands and the Boreal forests
+
+Dan Walters, Dan Shrubsole, 2003. Agricultural Drainage and Wetlands Management in Ontario
+
+Quinty, F. and L. Rochefort, 2003. Peatland Restoration Guide, second edition. Canadian Sphagnum Peat Moss Association and New Brunswick Department of Natural Resources and Energy. Québec, Québec
+
+Charman, D. (2002) Peatlands and Environmental Change
+
+Kark, S., & van Rensburg, B. J. (2006). Ecotones: marginal or central areas of transition
+
+Ries, L., Fletcher Jr, R. J., Battin, J., & Sisk, T. D. (2004). Ecological responses to habitat edges: mechanisms, models, and variability explained. Annual Review of Ecology, Evolution, and Systematics
+
+Haapalehto, T., Juutinen, R., Kareksela, S., Kuitunen, M., Tahvanainen, T., Vuori, H., & Kotiaho, J. S. (2017). Recovery of plant communities after ecological restoration of forestry‐drained peatlands. Ecology and evolution
+:::
 
 ## Organic Soil Order
 
@@ -272,13 +364,13 @@ Soils of the Organic order are composed largely of organic materials. They inclu
 
 : Chemical and physical properties of wetland classes. Reproduced from: Kroetsch DJ, Geng X, Chang SX, Saurette DD (2011) Organic Soils of canada: Part 1. Wetland Organic soils. Can J Soil Sci 91:807–822. <https://doi.org/10.4141/cjss10043>.
 
-![Diagrammatic horizon pattern of some subgroups of the Fibrisol, Mesisol and Humisol great groups. See below for a descriptions of tiers, horizons, great groups, and subgroups. Reproduced from the [Canadian Guide to Soil Classification 3rd Ed.](https://sis.agr.gc.ca/cansis/taxa/cssc3/index.html)](./images/O_groups.png){width="100%"}
+![Diagrammatic horizon pattern of some subgroups of the Fibrisol, Mesisol and Humisol great groups. See below for a descriptions of tiers, horizons, great groups, and subgroups. Reproduced from the [Canadian Guide to Soil Classification](https://sis.agr.gc.ca/cansis/taxa/cssc3/index.html)](./images/O_groups.png){width="100%"}
 
 ------------------------------------------------------------------------
 
 ### von Post scale of decomposition
 
-In this field test squeeze a sample of the organic material within the closed hand. Observe the color of the solution that is expressed between the fingers, the nature of the fibers, and the proportion of the original sample that remains in the hand. Ten classes are defined as follows:
+In this field test squeeze a sample of the organic material within the closed hand. Observe the color of the solution that is expressed between the fingers, the nature of the fibers, and the proportion of the original sample that remains in the hand. From the [Canadian System of Soil Classification](https://sis.agr.gc.ca/cansis/taxa/cssc3/index.html) the ten classes are defined as follows:
 
 1.  Undecomposed; plant structure unaltered; yields only clear water colored light yellow-brown.
 
@@ -302,7 +394,7 @@ In this field test squeeze a sample of the organic material within the closed ha
 
 ### Tiers
 
-The control section for Fibrisols, Mesisols, and Humisols extends from the surface either to a depth of 1.6 m or to a lithic contact. It is divided into tiers, which are used in classification. The tiers are layers based upon arbitrary depth criteria.
+The control section for Fibrisols, Mesisols, and Humisols extends from the surface either to a depth of 1.6 m or to a lithic contact. It is divided into tiers, which are used in classification. The tiers are layers based upon arbitrary depth criteria as outlined in the [Canadian System of Soil Classification](https://sis.agr.gc.ca/cansis/taxa/cssc3/index.html).
 
 -   **Surface tier:** The surface tier is 40 cm thick exclusive of loose litter, crowns of sedges and reeds, or living mosses. Mineral soil on the surface of the profile is part of the surface tier, which is used to name the soil family. Shallow lithic organic soils may have only a surface tier.
 
@@ -447,9 +539,13 @@ Schematic representation of high-rise (a) and manure belt (b) layer houses (Poul
 
 ## Luvisol Soil Order
 
-Soils of the Luvisolic order generally have light-colored, eluvial horizons and have illuvial B horizons in which silicate clay has accumulated. These soils develop characteristically in well to imperfectly drained sites, in sandy loam to clay, base-saturated parent materials under forest vegetation in subhumid to humid, mild to very cold climates.
+Soils of the Luvisolic order generally have light-colored, eluvial horizons and have illuvial B horizons in which silicate clay has accumulated. These soils develop characteristically in well to imperfectly drained sites, in sandy loam to clay, base-saturated parent materials under forest vegetation in subhumid to humid, mild to very cold climates ([Canadian System of Soil Classification](https://sis.agr.gc.ca/cansis/taxa/cssc3/index.html)).
 
 ## Hadashville Series (HHV)
+
+::: {style="font-size: 80%;"}
+Information from the Soils of the Lac du Bonnet Area (1967) [Soil Report #15](https://sis.agr.gc.ca/cansis/publications/surveys/mb/index.html)
+:::
 
 The Hadashville series consists of imperfectly drained Gleyed Dark Gray Luvisol soils developed on moderately to strongly calcareous, stratified, medium to moderately coarse textured (VFSL, L, SiL to VFS, LVFS, FSL), alluvial and lacustrine deposits. These deposits may be underlain by clay or strongly calcareous glacial till substrates. This soil type occurs in narrow strips along the Whitemouth, and Birch Rivers. Topography is level to irregular, very gently sloping. Surface runoff is slow and internal drainage is medium to moderately rapid but may be impeded by a high water-table. Native vegetation consists of aspen, balsam poplar, white spruce, elm and ash. In open stands dense shrub, herb and grass layers are found. The soils are free of stones except for scattered surface stones in areas where the underlying glacial till is close to the surface.
 
@@ -517,6 +613,21 @@ Comments: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 {{< pagebreak >}}
 
+```{=typst}
+#set align(center)
+```
 Download the pdf version of this booklet using this QR code
 
 ![](./images/booklet_qrcode.png){width="40%"}
+
+$~$
+
+$~$
+
+```{r}
+#| include: false
+"hi"
+```
+
+Compiled with [Quarto](https://quarto.org/) on `r Sys.Date()` by Alex Koiter with contributions from many!\
+The code to create this booklet can be found at <https://github.com/alex-koiter/2024-MSSS-Tour>
